@@ -51,7 +51,7 @@ const SmallProgramming = () => {
       <hr />
 
       <div>
-        <h1>Here is the enable disable button</h1>
+        <h1>Here is the enable element button</h1>
         <p>{para}</p>
         <button onClick={visiblity} style={{ cursor: "pointer" }}>
           Click here to {isVisible ? "hide" : "show"}
